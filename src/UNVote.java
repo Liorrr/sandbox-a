@@ -25,7 +25,7 @@ public class UNVote {
                 vFor++;
                 continue;
             } else if (countryVote[i] == 2) {
-                vAgainst++;2
+                vAgainst++;
 
                 continue;
             } else {
